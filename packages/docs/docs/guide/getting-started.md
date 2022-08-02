@@ -22,7 +22,7 @@ yarn create vuepress-site [optionalDirectoryName]
 
 <code-block title="NPM">
 ```bash
-npx create-vuepress-site [optionalDirectoryName]
+npm create-vuepress-site [optionalDirectoryName]
 ```
 </code-block>
 </code-group>
